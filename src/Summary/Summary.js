@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import SelectedOption from '../SelectedOption/SelectedOption'
+import SelectedOption from '../SelectedOption/SelectedOption';
+import './Summary.css';
 
 const USCurrencyFormat = new Intl.NumberFormat('en-US', {
     style: 'currency',

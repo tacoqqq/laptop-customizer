@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Feature from '../Feature/Feature.js';
-
+import './FeatureList.css';
 
 class FeatureList extends Component {
 

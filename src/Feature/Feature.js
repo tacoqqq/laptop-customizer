@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Options from '../Options/Options.js';
+import './Feature.css';
 
 
 class Feature extends Component {
